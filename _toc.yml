@@ -1,0 +1,4 @@
+format: jb-bbok
+root: README
+chapters:
+- file: test.py
